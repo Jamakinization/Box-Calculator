@@ -1,0 +1,6 @@
+In this tutorial, we will build a calculator from scratch using the BoxLayout
+ to align the components of the calculator correctly.
+ This calculator will consist of the GUI and the logic part,
+ which performs computations.
+ We will also learn how real-life calculators work under the hood
+ by incorporating functionalities like addition, subtraction, division, multiplication, etc.
